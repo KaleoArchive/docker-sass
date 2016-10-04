@@ -1,4 +1,4 @@
-# docker_sass
+# Sass
 Docker Image for Sass
 
 # How To Using
